@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: dynamo-app
+
+aws:
+  dynamodb:
+    endpoint: http://localhost:8000
+  region: ap-northeast-1
+  access-key: dummy
+  secret-key: dummy
